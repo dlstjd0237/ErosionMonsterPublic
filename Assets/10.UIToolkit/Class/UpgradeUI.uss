@@ -1,0 +1,96 @@
+.upgrade_ui-btn {
+    width: 105px;
+    height: 105px;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("project://database/Assets/99.Assets/Shift%20-%20Complete%20Sci-Fi%20UI/Textures/Border/Circle/Circle%20Outline%20Dash%20-%20Stroke%203px.png?fileID=21300000&guid=24de22fe090ea2a4b932c13f1b3be37d&type=3#Circle Outline Dash - Stroke 3px");
+    -unity-background-image-tint-color: rgb(255, 14, 14);
+    flex-wrap: wrap-reverse;
+    align-items: center;
+    justify-content: center;
+    overflow: visible;
+    visibility: visible;
+}
+
+.upgrade_ui_info_contain-box {
+    flex-grow: 0;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 1536px;
+    height: 85%;
+    position: relative;
+}
+
+.upgrade_ui_btn_contain-box {
+    flex-grow: 0;
+    background-color: rgba(255, 255, 255, 0);
+    height: 100%;
+    width: 30%;
+    background-image: url("project://database/Assets/99.Assets/Shift%20-%20Complete%20Sci-Fi%20UI/Textures/Background/Gradient%20Background%202.png?fileID=21300000&guid=f39aa8921cb6fbc47ad51f1e26909548&type=3#Gradient Background 2");
+    -unity-background-image-tint-color: rgba(168, 0, 0, 0.03);
+    justify-content: space-between;
+    align-items: flex-start;
+    -unity-font-definition: initial;
+    -unity-font: url('project://database/Assets/07.Fonts/SCDream2.otf?fileID=12800000&guid=798548a406e49904eaae04cf9a71ec2c&type=3#SCDream2');
+}
+
+.upgrade_ui_info-label {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    -unity-font-definition: initial;
+    -unity-font: url("project://database/Assets/07.Fonts/SCDream2Text.otf?fileID=12800000&guid=52f674ffc4c30db448cd3af0139f580f&type=3#SCDream2Text");
+    white-space: normal;
+    width: 250px;
+}
+
+.upgrade_ui_btn_info_contain-box {
+    height: 100px;
+    width: 80%;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.upgrade_ui_contain-box {
+    flex-grow: 1;
+    justify-content: space-around;
+    width: 250px;
+}
+
+.upgrade_ui_title-label {
+    -unity-font-definition: initial;
+    -unity-font: url("project://database/Assets/07.Fonts/SCDream2Test2.otf?fileID=12800000&guid=9c8d7a63995921b47bed24e1322abfd5&type=3#SCDream2Test2");
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    border-bottom-color: rgb(255, 14, 14);
+    border-bottom-width: 1px;
+    width: 250px;
+    background-image: url("project://database/Assets/99.Assets/Shift%20-%20Complete%20Sci-Fi%20UI/Textures/Glow%20&%20Shadow/Gradient%20Left.png?fileID=21300000&guid=593d94ea5fd8094469206d35cdc58683&type=3#Gradient Left");
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+}
+
+.upgrade_ui_info_title-label {
+    -unity-font-definition: initial;
+    color: rgb(255, 255, 255);
+    -unity-font: url("project://database/Assets/99.Assets/Shift%20-%20Complete%20Sci-Fi%20UI/Fonts/Rajdhani-Medium.ttf?fileID=12800000&guid=277effe82d58fa34c9041017eb398c45&type=3#Rajdhani-Medium");
+    font-size: 77px;
+    -unity-text-align: upper-center;
+    text-shadow: 3px 3px 10px rgb(255, 2, 2);
+    margin-bottom: -88px;
+}
+
+.upgrade_ui_price-label {
+    position: absolute;
+    color: rgb(179, 255, 252);
+    top: 87px;
+    left: 282px;
+    -unity-text-align: upper-right;
+    white-space: nowrap;
+    width: 125%;
+    text-shadow: 1px 1px 2.3px rgb(206, 255, 241);
+    -unity-font: url("project://database/Assets/07.Fonts/SCDream2Test2.otf?fileID=12800000&guid=9c8d7a63995921b47bed24e1322abfd5&type=3#SCDream2Test2");
+    -unity-font-definition: initial;
+    font-size: 16px;
+}

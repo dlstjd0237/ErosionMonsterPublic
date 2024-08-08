@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/10.UIToolkit/Class/Title.uss?fileID=7433441132597879392&amp;guid=9cdec86539d37834598a1504d2bdc785&amp;type=3#Title" />
+    <ui:VisualElement name="contain" class="contain" style="transition-duration: 0.4s;">
+        <ui:Label tabindex="-1" text="ErosionMonster" parse-escape-sequences="true" display-tooltip-when-elided="true" name="contain-label" style="-unity-text-align: lower-center; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2Test2.otf?fileID=12800000&amp;guid=9c8d7a63995921b47bed24e1322abfd5&amp;type=3#SCDream2Test2&quot;); -unity-font-definition: initial; font-size: 160px; margin-top: 2px; color: rgb(255, 30, 0); text-shadow: 2px 2px 6.1px rgb(255, 255, 255); -unity-font-style: normal; width: 100%; height: 30%;" />
+        <ui:VisualElement style="height: 70%; width: 100%; align-items: center; justify-content: space-around;">
+            <ui:Button text="Play" parse-escape-sequences="true" display-tooltip-when-elided="true" name="title_start_btn" class="title_btn" style="transition-duration: 0.2s;" />
+            <ui:Button text="Info" parse-escape-sequences="true" display-tooltip-when-elided="true" name="title_info_btn" class="title_btn" style="transition-duration: 0.2s;" />
+            <ui:Button text="Exit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="title_exit_btn" class="title_btn" style="transition-duration: 0.2s;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="background_image-box" picking-mode="Ignore" class="background_image-box" />
+    <ui:VisualElement name="info_contain-box" class="info_contain-box on" style="transition-duration: 0.4s;">
+        <ui:Label tabindex="-1" text="조작키" parse-escape-sequences="true" display-tooltip-when-elided="true" name="info_text-label" enable-rich-text="true" style="-unity-font-definition: initial; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2Text.otf?fileID=12800000&amp;guid=52f674ffc4c30db448cd3af0139f580f&amp;type=3#SCDream2Text&quot;); font-size: 107px; color: rgb(255, 255, 255); -unity-text-align: upper-center; top: 20px;" />
+        <ui:Label tabindex="-1" text="방향키 : W,S&#10;공격 : 왼쪽 마우스 홀드&#10;서브 공격 : 오른쪽 마우스 클릭&#10;부스터 : Shift&#10;귀환 : B&#10;핵폭탄 : 마우스 휠 클릭" parse-escape-sequences="true" display-tooltip-when-elided="true" name="info_text-label" enable-rich-text="true" style="-unity-font-definition: initial; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2Test3.otf?fileID=12800000&amp;guid=7c2e575857da5164e8ce8af1707ad7f8&amp;type=3#SCDream2Test3&quot;); font-size: 52px; color: rgb(255, 255, 255); -unity-text-align: upper-left; top: 20px; margin-right: 150px; margin-left: 150px;" />
+        <ui:Button text="돌아가기" parse-escape-sequences="true" display-tooltip-when-elided="true" name="info_exit-btn" class="title_btn" style="width: 167px; top: -7px; transition-duration: 0.2s; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2Test3.otf?fileID=12800000&amp;guid=7c2e575857da5164e8ce8af1707ad7f8&amp;type=3#SCDream2Test3&quot;); -unity-font-style: bold;" />
+    </ui:VisualElement>
+</ui:UXML>

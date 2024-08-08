@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32634109d6dc7674996ec6ffc51caa3d, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: f6cccea905ba19b41b1c2b704528e2b7, type: 3}
+  _title: "\uC2E4\uB4DC \uAC15\uD654"
+  _info: "\uAE30\uCCB4\uC758 \uC2E4\uB4DC\uB97C \uAC15\uD654\uD558\uC5EC \uC2E4\uB4DC\uB85C
+    \uB9C9\uC744 \uC218 \uC788\uB294 \uACF5\uACA9\uB825\uC758 \uCD5C\uB300\uCE58\uB97C
+    2 \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+  _defaultPrice: 2
+  _increasePrice: 2
+  _statPiece:
+  - StatType: 6
+    AddPointAmount: 2
+  Level: 0

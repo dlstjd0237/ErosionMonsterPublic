@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32634109d6dc7674996ec6ffc51caa3d, type: 3}
+  m_Name: CrystalBonus
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 6a73b67ec7ac9f047a65cfaf402535d3, type: 3}
+  _title: "\uD06C\uB9AC\uC2A4\uD0C8 \uCD94\uAC00 \uD68D\uB4DD"
+  _info: "\uD328\uB7EC\uC0AC\uC774\uD2B8 \uCC98\uCE58, \uCC44\uAD74 \uB85C \uC5BB\uC744
+    \uC218 \uC788\uB294 \uD06C\uB9AC\uC2A4\uD0C8\uC758 \uB7C9\uC774 10% \uC99D\uAC00\uD569\uB2C8\uB2E4."
+  _defaultPrice: 50
+  _increasePrice: 50
+  _statPiece:
+  - StatType: 3
+    AddPointAmount: 100

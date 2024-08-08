@@ -1,0 +1,61 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/10.UIToolkit/Class/BaseUI.uss?fileID=7433441132597879392&amp;guid=56158c1be168d8a4e9fde04758f15c5d&amp;type=3#BaseUI" />
+    <Style src="project://database/Assets/10.UIToolkit/Class/TabbarUI.uss?fileID=7433441132597879392&amp;guid=ee846c755676cb340ac308e9c68ccb85&amp;type=3#TabbarUI" />
+    <Style src="project://database/Assets/10.UIToolkit/Class/UpgradeUI.uss?fileID=7433441132597879392&amp;guid=3bbca77bb48e2704fa17d785daf27aef&amp;type=3#UpgradeUI" />
+    <Style src="project://database/Assets/10.UIToolkit/Class/Weapon.uss?fileID=7433441132597879392&amp;guid=dda5deeb523116d46814da1541dcad60&amp;type=3#Weapon" />
+    <ui:VisualElement name="base_ui_contain-box" class="base_ui_contain-box on" style="transition-duration: 0.2s;">
+        <ui:Label tabindex="-1" text="출격" parse-escape-sequences="true" display-tooltip-when-elided="true" name="base_ui_exit-btn" style="position: absolute; font-size: 100px; color: rgb(255, 255, 255); text-shadow: 4px 2px 5px rgb(255, 0, 0); top: 929px; left: 1709px; -unity-font-definition: initial; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2Text.otf?fileID=12800000&amp;guid=52f674ffc4c30db448cd3af0139f580f&amp;type=3#SCDream2Text&quot;);" />
+        <ui:VisualElement name="base_ui_pattern_contain-box" picking-mode="Ignore" class="base_ui_pattern_contain-box">
+            <ui:VisualElement name="base_ui_contain_outline-box" picking-mode="Ignore" class="base_ui_contain_outline-box">
+                <ui:VisualElement name="base_ui_tab_bar_contain-box" class="base_ui_tab_bar_contain-box" style="border-bottom-color: rgb(255, 14, 14);">
+                    <ui:Button text="Upgrade" parse-escape-sequences="true" display-tooltip-when-elided="true" name="tabbar_ui_upgrade-btn" class="tabbar_ui-btn" style="transition-duration: 0.2s;" />
+                    <ui:Button text="Aircraft" parse-escape-sequences="true" display-tooltip-when-elided="true" name="tabbar_ui_aircraft-btn" class="tabbar_ui-btn" style="transition-duration: 0.2s;" />
+                    <ui:Button text="Description" parse-escape-sequences="true" display-tooltip-when-elided="true" name="tabbar_ui_objective-btn" class="tabbar_ui-btn" style="transition-duration: 0.2s;" />
+                    <ui:Button text="Setting" parse-escape-sequences="true" display-tooltip-when-elided="true" name="tabbar_ui_setting-btn" class="tabbar_ui-btn" style="transition-duration: 0.2s;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="base_ui_info_contain-box" class="base_ui_info_contain-box" style="transition-duration: 0.2s; left: 0;">
+                    <ui:VisualElement name="upgrade_ui_info_contain-box" class="upgrade_ui_info_contain-box" style="flex-direction: row;">
+                        <ui:VisualElement name="upgrade_ui_airframe_btn_contain-box" class="upgrade_ui_btn_contain-box">
+                            <ui:Label tabindex="-1" text="Airframe" parse-escape-sequences="true" display-tooltip-when-elided="true" name="upgrade_ui_info_title-label" class="upgrade_ui_info_title-label" />
+                        </ui:VisualElement>
+                        <ui:VisualElement name="upgrade_ui_weapons__btn_contain-box" class="upgrade_ui_btn_contain-box">
+                            <ui:Label tabindex="-1" text="Weapons" parse-escape-sequences="true" display-tooltip-when-elided="true" name="upgrade_ui_info_title-label" class="upgrade_ui_info_title-label" />
+                        </ui:VisualElement>
+                        <ui:VisualElement name="upgrade_ui_crystal_btn_contain-box" class="upgrade_ui_btn_contain-box">
+                            <ui:Label tabindex="-1" text="Crystal" parse-escape-sequences="true" display-tooltip-when-elided="true" name="upgrade_ui_info_title-label" class="upgrade_ui_info_title-label" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:VisualElement name="aircraft_ui_info_contain-box" class="upgrade_ui_info_contain-box">
+                        <ui:VisualElement name="weapon_btn_contain-box" style="flex-grow: 0; flex-direction: row; justify-content: space-around; align-items: center; width: 100%; height: 70%;">
+                            <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="weapon_choice_rifle-btn" enable-rich-text="true" class="weapon_choice-btn">
+                                <ui:VisualElement name="weapon_image_contain-box" picking-mode="Ignore" class="weapon_image_contain-box" style="background-image: url(&quot;project://database/Assets/02.Sprite/Icon/A.png?fileID=21300000&amp;guid=be6271e73d91d454f8f393039022e967&amp;type=3#A&quot;); width: 100%; scale: -1 1;" />
+                            </ui:Button>
+                            <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="weapon_choice_shotgun-btn" enable-rich-text="true" class="weapon_choice-btn">
+                                <ui:VisualElement name="weapon_image_contain-box" picking-mode="Ignore" class="weapon_image_contain-box" style="background-image: url(&quot;project://database/Assets/02.Sprite/Icon/B.png?fileID=21300000&amp;guid=aeba6969477984a4791212bddc4279c1&amp;type=3#B&quot;);" />
+                            </ui:Button>
+                            <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="weapon_choice_sniper-btn" enable-rich-text="true" class="weapon_choice-btn">
+                                <ui:VisualElement name="weapon_image_contain-box" picking-mode="Ignore" class="weapon_image_contain-box" style="background-image: url(&quot;project://database/Assets/02.Sprite/Icon/C.png?fileID=21300000&amp;guid=db6f0477058732344b39e160fb7c412e&amp;type=3#C&quot;);" />
+                            </ui:Button>
+                        </ui:VisualElement>
+                        <ui:VisualElement name="weapon_info_contain-box" style="flex-grow: 0; height: 30%; width: 100%;">
+                            <ui:Label tabindex="-1" text="저격총" parse-escape-sequences="true" display-tooltip-when-elided="true" name="weapon_info_title-label" style="height: 40%; align-items: center; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2Test3.otf?fileID=12800000&amp;guid=7c2e575857da5164e8ce8af1707ad7f8&amp;type=3#SCDream2Test3&quot;); -unity-font-definition: initial; color: rgb(255, 255, 255); -unity-text-align: middle-center; font-size: 93px; text-shadow: 2px 2px 1px rgb(255, 0, 0); border-bottom-color: rgb(180, 180, 180); border-bottom-width: 1px;" />
+                            <ui:Label tabindex="-1" text="연사속도가 다른총들에 비해 느린대신 한번에 많은 피해를 적에게 줄수 있다." parse-escape-sequences="true" display-tooltip-when-elided="true" name="weapon_info-label" style="height: 60%; -unity-font-definition: initial; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2Test3.otf?fileID=12800000&amp;guid=7c2e575857da5164e8ce8af1707ad7f8&amp;type=3#SCDream2Test3&quot;); -unity-text-align: upper-center; color: rgb(255, 255, 255); font-size: 40px;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:VisualElement name="upgrade_ui_info_contain-box" class="upgrade_ui_info_contain-box">
+                        <ui:VisualElement name="upgrade_ui_crystal_btn_contain-box" class="upgrade_ui_btn_contain-box" style="width: 100%; align-items: center;">
+                            <ui:Label tabindex="-1" text="게임 공략" parse-escape-sequences="true" display-tooltip-when-elided="true" name="upgrade_ui_info_title-label" class="upgrade_ui_info_title-label" style="width: 100%; height: 30%; margin-bottom: 0; -unity-text-align: middle-center; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2Test4.otf?fileID=12800000&amp;guid=b93a63f7a4ce896489330254d26e4acb&amp;type=3#SCDream2Test4&quot;);" />
+                            <ui:Label tabindex="-1" text="1. 크리스탈을 채굴하세요.&#10;2. 기체를 업그레이드 하세요.&#10;3. 목표를 달성하세요." parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 100%; height: 70%; font-size: 49px; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2Test3.otf?fileID=12800000&amp;guid=7c2e575857da5164e8ce8af1707ad7f8&amp;type=3#SCDream2Test3&quot;); color: rgb(255, 255, 255); -unity-text-align: middle-left; text-shadow: 2px 2px 10px rgb(255, 0, 0); white-space: normal; text-overflow: clip; -unity-paragraph-spacing: 250px;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:VisualElement name="upgrade_ui_info_contain-box" class="upgrade_ui_info_contain-box">
+                        <ui:Slider label="주음량" high-value="1" name="master_audio-slider" low-value="0.001" style="color: rgb(255, 255, 255); -unity-text-align: upper-center; font-size: 40px; -unity-font-definition: initial; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2.otf?fileID=12800000&amp;guid=5135bdb2f50fde449abbc8bc12905d26&amp;type=3#SCDream2&quot;);" />
+                        <ui:Slider label="효과음" high-value="1" name="sound_audio-slider" low-value="0.001" style="color: rgb(255, 255, 255); -unity-text-align: upper-center; font-size: 40px; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2.otf?fileID=12800000&amp;guid=5135bdb2f50fde449abbc8bc12905d26&amp;type=3#SCDream2&quot;); -unity-font-definition: initial;" />
+                        <ui:Slider label="배경음" high-value="1" name="vfx_audio-slider" low-value="0.001" style="color: rgb(255, 255, 255); -unity-text-align: upper-center; font-size: 40px; -unity-font-definition: initial; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2.otf?fileID=12800000&amp;guid=5135bdb2f50fde449abbc8bc12905d26&amp;type=3#SCDream2&quot;);" />
+                        <ui:Button text="나가기" parse-escape-sequences="true" display-tooltip-when-elided="true" enable-rich-text="true" name="exit-btn" style="width: 300px; height: 100px; font-size: 96px; color: rgb(255, 255, 255); border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); background-color: rgba(188, 188, 188, 0); -unity-text-align: middle-center;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

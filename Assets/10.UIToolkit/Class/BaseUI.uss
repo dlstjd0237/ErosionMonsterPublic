@@ -1,0 +1,47 @@
+.base_ui_contain-box {
+    flex-grow: 1;
+    background-color: rgba(255, 0, 0, 0.36);
+    background-image: url("project://database/Assets/99.Assets/Shift%20-%20Complete%20Sci-Fi%20UI/Textures/Background/Background%20Basic.png?fileID=21300000&guid=59da25cc8872f164da4db6b05ad99d57&type=3#Background Basic");
+    -unity-background-image-tint-color: rgba(255, 1, 1, 0.78);
+}
+
+.base_ui_pattern_contain-box {
+    background-image: url("project://database/Assets/99.Assets/Shift%20-%20Complete%20Sci-Fi%20UI/Textures/Glow%20&%20Shadow/Gradient%20Top.png?fileID=21300000&guid=75fa4a67e7c28614a9f0ba6b8b5b4720&type=3#Gradient Top");
+    -unity-background-image-tint-color: rgb(0, 0, 0);
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.base_ui_contain_outline-box {
+    flex-grow: 0;
+    width: 80%;
+    height: 95%;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.base_ui_info_contain-box {
+    height: 85%;
+    width: 400%;
+    overflow: hidden;
+    flex-direction: row;
+    visibility: visible;
+    display: flex;
+}
+
+.base_ui_tab_bar_contain-box {
+    justify-content: space-around;
+    background-color: rgba(255, 255, 255, 0);
+    width: 100%;
+    height: 15%;
+    flex-direction: row;
+    align-items: flex-end;
+    border-bottom-color: rgb(255, 0, 0);
+    border-bottom-width: 3px;
+}
+
+.base_ui_contain-box.on {
+    opacity: 0;
+    top: -1300px;
+}

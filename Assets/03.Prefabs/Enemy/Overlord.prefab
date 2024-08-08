@@ -1,0 +1,1991 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &86463156541326867
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4601701405247840424}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegFrontLeft_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4601701405247840424
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 86463156541326867}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.10497135, y: -0.3571588, z: 0.8925135, w: 0.25463372}
+  m_LocalPosition: {x: 0.029773941, y: -0.15377834, z: -0.16793261}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5089617130281842764}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: 42.576237, y: 48.550148, z: 144.59047}
+--- !u!1 &280141699910689819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4044405419632786945}
+  m_Layer: 0
+  m_Name: Kupolojuve_Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4044405419632786945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 280141699910689819}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0006493064, y: 0.7071065, z: 0.0006493064, w: 0.7071066}
+  m_LocalPosition: {x: -0, y: -0.000000039340247, z: 0.9}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9183594203424081884}
+  - {fileID: 7464552716092183340}
+  - {fileID: 4601701405247840424}
+  - {fileID: 8141345735661944203}
+  - {fileID: 5378442183140946082}
+  - {fileID: 3698712435479467288}
+  - {fileID: 8656387037828605838}
+  - {fileID: 9163466259490511359}
+  - {fileID: 7057040738805428874}
+  - {fileID: 4432395218740107369}
+  - {fileID: 7660058296017816557}
+  - {fileID: 8929452702654420764}
+  - {fileID: 6187280054916724808}
+  - {fileID: 1626234512154194860}
+  - {fileID: 4160345077582004216}
+  - {fileID: 5807452950454668976}
+  - {fileID: 7872780513274762048}
+  m_Father: {fileID: 7535549938683793496}
+  m_LocalEulerAnglesHint: {x: 4.5775113, y: 87.43179, z: -15.971401}
+--- !u!1 &471182599413256482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7225654351324184129}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearRight_B_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7225654351324184129
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 471182599413256482}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000023079416, y: -0.2123638, z: -0.000000106199785, w: 0.9771907}
+  m_LocalPosition: {x: -0.36463004, y: -0.000000014603137, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000005, z: 1.0000005}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7736402169946693872}
+  m_LocalEulerAnglesHint: {x: 3.4016447, y: -25.309784, z: 13.318917}
+--- !u!1 &619452722296223101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7736402169946693872}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearRight_B_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7736402169946693872
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 619452722296223101}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000004923043, y: -0.092784494, z: 0.0000007518621, w: 0.99568623}
+  m_LocalPosition: {x: -0.2739383, y: 0.00000003516674, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 0.9999997, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7225654351324184129}
+  m_Father: {fileID: 7872780513274762048}
+  m_LocalEulerAnglesHint: {x: -0.20659643, y: -7.356278, z: -0.65655214}
+--- !u!1 &733084740682759246
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6978747670708839440}
+  m_Layer: 0
+  m_Name: Visual
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6978747670708839440
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 733084740682759246}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.3, z: 0}
+  m_LocalScale: {x: 30, y: 30, z: 30}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7535549938683793496}
+  - {fileID: 8417524539269474773}
+  m_Father: {fileID: 6690989091767357518}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &936437720534808928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8000394623132762035}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegRearRight_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8000394623132762035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 936437720534808928}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000015751004, y: 0.00031462623, z: 0.2649929, w: 0.9642503}
+  m_LocalPosition: {x: -0.26901373, y: 0, z: 0.00000007152557}
+  m_LocalScale: {x: 0.99999976, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 821859157780367924}
+  - {fileID: 7004767724333465113}
+  m_Father: {fileID: 8823815285490568451}
+  m_LocalEulerAnglesHint: {x: -0.050923187, y: 0.032055676, z: 65.25931}
+--- !u!1 &1062407569648095186
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8897286594221481435}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontRight_B_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8897286594221481435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1062407569648095186}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000289879, y: -0.0927916, z: -0.000000289879, w: 0.9956856}
+  m_LocalPosition: {x: -0.27393994, y: 0.0000000047683715, z: 0.0000050354}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8377107027323824483}
+  m_Father: {fileID: 6187280054916724808}
+  m_LocalEulerAnglesHint: {x: -0.08602366, y: -11.341973, z: -1.3468479}
+--- !u!1 &1077366139083744152
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5089617130281842764}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegFrontLeft_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5089617130281842764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1077366139083744152}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000016479039, y: -0.000000096202186, z: 0.042656515, w: 0.99908984}
+  m_LocalPosition: {x: -0.18941768, y: -0.00000045776366, z: 0.000000011920928}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6113913288570391089}
+  m_Father: {fileID: 4601701405247840424}
+  m_LocalEulerAnglesHint: {x: -0.005216936, y: 0.01694745, z: 22.541641}
+--- !u!1 &1193777176273719937
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7004767724333465113}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegRearRight_ClawB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7004767724333465113
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1193777176273719937}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000143363, y: -0.00019439236, z: 0.12800026, w: 0.99177414}
+  m_LocalPosition: {x: -0.33369797, y: -0.036846638, z: -0.00017681121}
+  m_LocalScale: {x: 1, y: 1.0000002, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8000394623132762035}
+  m_LocalEulerAnglesHint: {x: -0.0083180545, y: -0.020729605, z: -10.2919}
+--- !u!1 &1245814687047435211
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3646004514328042751}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegFrontLeft_ClawB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3646004514328042751
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1245814687047435211}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000013890775, y: -0.00019405666, z: 0.1280004, w: 0.99177414}
+  m_LocalPosition: {x: -0.3336853, y: -0.036668643, z: -0.000005760193}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6113913288570391089}
+  m_LocalEulerAnglesHint: {x: -0.008257745, y: -0.020708421, z: -10.2919}
+--- !u!1 &1467046779940214045
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8141345735661944203}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegFrontRight_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8141345735661944203
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1467046779940214045}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.254637, y: 0.89257294, z: -0.3570107, w: 0.10496183}
+  m_LocalPosition: {x: 0.029774016, y: -0.15377837, z: 0.16799991}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 406544520896924172}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: 45.068184, y: 170.65794, z: 90.08065}
+--- !u!1 &1549771098001021325
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9183594203424081884}
+  m_Layer: 0
+  m_Name: Kupolojuve_FeelerLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9183594203424081884
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1549771098001021325}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.065138176, y: -0.072296895, z: 0.9248555, w: 0.36765826}
+  m_LocalPosition: {x: -0.12998123, y: -0.18959755, z: -0.08683525}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: 4.85939, y: 3.9496937, z: 133.66142}
+--- !u!1 &1661958874227059252
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1626234512154194860}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearLeft_A_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1626234512154194860
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1661958874227059252}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.09687158, y: 0.84758216, z: 0.16793239, w: -0.49398285}
+  m_LocalPosition: {x: -0.6678103, y: 0.05422655, z: -0.14432418}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 0.9999997}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3479880621511799370}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: 21.601707, y: -13.2783, z: -1.4191926}
+--- !u!1 &2066881726210631695
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 406544520896924172}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegFrontRight_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &406544520896924172
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2066881726210631695}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000024576985, y: -0.00000018619484, z: -0.042656627, w: 0.9990898}
+  m_LocalPosition: {x: -0.18941791, y: 0.0000005340576, z: 0.0000000023841857}
+  m_LocalScale: {x: 0.99999994, y: 0.99999976, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3320784484089447680}
+  m_Father: {fileID: 8141345735661944203}
+  m_LocalEulerAnglesHint: {x: 0.008254847, y: 0.020905448, z: -27.297863}
+--- !u!1 &2158767942440200224
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3320784484089447680}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegFrontRight_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3320784484089447680
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2158767942440200224}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000015800148, y: 0.00031462422, z: -0.26499277, w: 0.9642504}
+  m_LocalPosition: {x: -0.26901373, y: -0.000000038146972, z: -0.000000042915342}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6048834309735704186}
+  - {fileID: 3165281733922565062}
+  m_Father: {fileID: 406544520896924172}
+  m_LocalEulerAnglesHint: {x: 0.05773329, y: 0.025116568, z: -73.69854}
+--- !u!1 &2637560075437137889
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9163466259490511359}
+  m_Layer: 0
+  m_Name: Kupolojuve_SacksRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9163466259490511359
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2637560075437137889}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.348527, y: -0.6152471, z: 0.61588603, w: -0.34739658}
+  m_LocalPosition: {x: -0.16527762, y: 0.00030350767, z: 0.18099998}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: 86.72051, y: 54.338665, z: -65.97063}
+--- !u!1 &2800382507363415784
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3479880621511799370}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearLeft_A_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3479880621511799370
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2800382507363415784}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000081100575, y: -0.09277991, z: -0.0000011270309, w: 0.99568665}
+  m_LocalPosition: {x: -0.27393693, y: 0.000000016093253, z: -0.0000030517576}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1991111167211471762}
+  m_Father: {fileID: 1626234512154194860}
+  m_LocalEulerAnglesHint: {x: 0.29162285, y: -7.8078876, z: 3.944059}
+--- !u!1 &2824821762365222975
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1047994823647743696}
+  m_Layer: 0
+  m_Name: SpawnTrm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1047994823647743696
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2824821762365222975}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 27, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6690989091767357518}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3339881164565424987
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7899917561175050996}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegRearLeft_ClawA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7899917561175050996
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3339881164565424987}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00004004477, y: -0.00016385694, z: 0.10620339, w: 0.9943444}
+  m_LocalPosition: {x: -0.33578098, y: -0.047935676, z: -0.00012962341}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8312347709630544934}
+  m_LocalEulerAnglesHint: {x: -0.011803448, y: -0.01530677, z: -17.806992}
+--- !u!1 &3480163095088029554
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1991111167211471762}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearLeft_A_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1991111167211471762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3480163095088029554}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000001301207, y: -0.21236765, z: 0.000000028278464, w: 0.97718984}
+  m_LocalPosition: {x: -0.36463004, y: -0.000000104904174, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 0.99999976, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3479880621511799370}
+  m_LocalEulerAnglesHint: {x: 0.14507465, y: -35.089104, z: 2.9743955}
+--- !u!1 &3528330432781085521
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2425592287194002782}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearRight_A_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2425592287194002782
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3528330432781085521}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000026000245, y: -0.09278437, z: -0.0000002647789, w: 0.99568623}
+  m_LocalPosition: {x: -0.2739384, y: 0.00000004649162, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4922809606387929680}
+  m_Father: {fileID: 5807452950454668976}
+  m_LocalEulerAnglesHint: {x: -0.25531247, y: -9.419233, z: -1.6606259}
+--- !u!1 &4142972170713455473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8417524539269474773}
+  - component: {fileID: 4369164136933410964}
+  m_Layer: 0
+  m_Name: SK_KupolobrachJuvenile
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8417524539269474773
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4142972170713455473}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6978747670708839440}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4369164136933410964
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4142972170713455473}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 16d14d2309130bc41b53c782f702c33c, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 4
+  m_UpdateWhenOffscreen: 1
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -1584265395701780118, guid: b8ca025dacac1ff44935d1c468bf58a3, type: 3}
+  m_Bones:
+  - {fileID: 487779657627104789}
+  - {fileID: 8432316552076088346}
+  - {fileID: 1270089196036695720}
+  - {fileID: 4044405419632786945}
+  - {fileID: 1830072796683506670}
+  - {fileID: 2037508735436254533}
+  - {fileID: 3646004514328042751}
+  - {fileID: 8141345735661944203}
+  - {fileID: 406544520896924172}
+  - {fileID: 3320784484089447680}
+  - {fileID: 6048834309735704186}
+  - {fileID: 3165281733922565062}
+  - {fileID: 5378442183140946082}
+  - {fileID: 7569412423136824157}
+  - {fileID: 8312347709630544934}
+  - {fileID: 7899917561175050996}
+  - {fileID: 5418871921895371509}
+  - {fileID: 65561009367859082}
+  - {fileID: 8823815285490568451}
+  - {fileID: 8000394623132762035}
+  - {fileID: 4601701405247840424}
+  - {fileID: 5089617130281842764}
+  - {fileID: 6113913288570391089}
+  - {fileID: 7464552716092183340}
+  - {fileID: 3698712435479467288}
+  - {fileID: 2569006909176686550}
+  - {fileID: 1991111167211471762}
+  - {fileID: 7660058296017816557}
+  - {fileID: 4432395218740107369}
+  - {fileID: 8929452702654420764}
+  - {fileID: 6187280054916724808}
+  - {fileID: 8377107027323824483}
+  - {fileID: 8897286594221481435}
+  - {fileID: 3479880621511799370}
+  - {fileID: 1626234512154194860}
+  - {fileID: 4160345077582004216}
+  - {fileID: 49650260895458679}
+  - {fileID: 5807452950454668976}
+  - {fileID: 6034575427918745404}
+  - {fileID: 7057040738805428874}
+  - {fileID: 8656387037828605838}
+  - {fileID: 9183594203424081884}
+  - {fileID: 692496142697836361}
+  - {fileID: 7225654351324184129}
+  - {fileID: 7736402169946693872}
+  - {fileID: 7872780513274762048}
+  - {fileID: 2425592287194002782}
+  - {fileID: 4922809606387929680}
+  - {fileID: 9163466259490511359}
+  - {fileID: 7004767724333465113}
+  - {fileID: 821859157780367924}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 4044405419632786945}
+  m_AABB:
+    m_Center: {x: 0.07903454, y: -0.00007033348, z: 0.0042081475}
+    m_Extent: {x: 0.86284184, y: 1.0626066, z: 1.0559144}
+  m_DirtyAABB: 0
+--- !u!1 &4264860182045184750
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7057040738805428874}
+  m_Layer: 0
+  m_Name: Kupolojuve_Throat
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7057040738805428874
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4264860182045184750}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.4822208e-10, y: 0.00000007155613, z: 0.999994, w: 0.0034688935}
+  m_LocalPosition: {x: 0.021284712, y: 0.004151167, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 692496142697836361}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: -2.5994735, y: 2.7468495, z: -177.5488}
+--- !u!1 &4551662837738063546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1270089196036695720}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontLeft_A_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1270089196036695720
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4551662837738063546}
+  serializedVersion: 2
+  m_LocalRotation: {x: 5.5286754e-17, y: -0.09278497, z: -5.5286754e-17, w: 0.9956862}
+  m_LocalPosition: {x: -0.2739383, y: 0.00000002682209, z: -0.00000015258789}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000004}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 487779657627104789}
+  m_Father: {fileID: 4432395218740107369}
+  m_LocalEulerAnglesHint: {x: 0.5658294, y: -12.798556, z: 2.6104453}
+--- !u!1 &4586220327513637601
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7660058296017816557}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontLeft_B_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7660058296017816557
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4586220327513637601}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.09842808, y: 0.8474027, z: -0.16702542, w: -0.4942905}
+  m_LocalPosition: {x: -0.6680055, y: -0.051913522, z: -0.14432418}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2569006909176686550}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: -21.391947, y: -19.891548, z: 17.454687}
+--- !u!1 &4614292903484175643
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2037508735436254533}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontRight_A_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2037508735436254533
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4614292903484175643}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000010675881, y: -0.09278526, z: -0.00000011456375, w: 0.9956862}
+  m_LocalPosition: {x: -0.2739383, y: -0.000000036358834, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8432316552076088346}
+  m_Father: {fileID: 8929452702654420764}
+  m_LocalEulerAnglesHint: {x: 0.24745657, y: -12.852165, z: 0.19620451}
+--- !u!1 &4822742690355859697
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8312347709630544934}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegRearLeft_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8312347709630544934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4822742690355859697}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000015983542, y: 0.00031457425, z: -0.26499295, w: 0.9642503}
+  m_LocalPosition: {x: -0.26901373, y: 0, z: -0.0000000047683715}
+  m_LocalScale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7899917561175050996}
+  - {fileID: 5418871921895371509}
+  m_Father: {fileID: 7569412423136824157}
+  m_LocalEulerAnglesHint: {x: 0.060064815, y: 0.021383008, z: -77.42065}
+--- !u!1 &4900667578273629438
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 692496142697836361}
+  m_Layer: 0
+  m_Name: Kupolojuve_ThroatSacks
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &692496142697836361
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4900667578273629438}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000013315764, y: -3.3965605e-10, z: 0.002550773, w: 0.9999968}
+  m_LocalPosition: {x: -0.23299056, y: 0.0012508888, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7057040738805428874}
+  m_LocalEulerAnglesHint: {x: -0.000015258593, y: -0.00000007784317, z: 0.29229736}
+--- !u!1 &4999864479962766741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1830072796683506670}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontLeft_B_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1830072796683506670
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4999864479962766741}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000023298043, y: -0.21236357, z: -0.00000005063142, w: 0.97719073}
+  m_LocalPosition: {x: -0.3646305, y: -0.00000002503395, z: 0.00000015258789}
+  m_LocalScale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2569006909176686550}
+  m_LocalEulerAnglesHint: {x: -2.2281232, y: -31.908522, z: -3.5689197}
+--- !u!1 &5118548547564495165
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5205229922173312754}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5205229922173312754
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5118548547564495165}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6690989091767357518}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5119786231051302341
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5378442183140946082}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegRearLeft_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5378442183140946082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5119786231051302341}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.10562859, y: 0.3569898, z: 0.8929698, w: -0.25299385}
+  m_LocalPosition: {x: 0.030339202, y: 0.15394455, z: -0.16793251}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7569412423136824157}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: -45.270496, y: 29.947332, z: -103.24785}
+--- !u!1 &5751355764961971800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7872780513274762048}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearRight_B_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7872780513274762048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5751355764961971800}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.41908005, y: 0.47849503, z: 0.7197723, w: -0.27810484}
+  m_LocalPosition: {x: -0.6676121, y: 0.16222635, z: 0.073000185}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7736402169946693872}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: 59.692543, y: -137.06462, z: -151.78203}
+--- !u!1 &6293659732318749123
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8823815285490568451}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegRearRight_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8823815285490568451
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6293659732318749123}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000002418349, y: -0.000000058798157, z: 0.042656604, w: 0.9990898}
+  m_LocalPosition: {x: -0.18941784, y: -0.0000005340576, z: -0.0000000834465}
+  m_LocalScale: {x: 0.9999998, y: 1.0000001, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8000394623132762035}
+  m_Father: {fileID: 3698712435479467288}
+  m_LocalEulerAnglesHint: {x: -0.005439498, y: 0.017197484, z: 22.808475}
+--- !u!1 &6375455676995543633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8432316552076088346}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontRight_A_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8432316552076088346
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6375455676995543633}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021774548, y: -0.212363, z: -0.00000010019584, w: 0.97719085}
+  m_LocalPosition: {x: -0.3646303, y: -0.000000011622905, z: -0.00000030517577}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2037508735436254533}
+  m_LocalEulerAnglesHint: {x: -1.3415754, y: -16.388517, z: -4.5395412}
+--- !u!1 &6453119907110855831
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6187280054916724808}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontRight_B_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6187280054916724808
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6453119907110855831}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.49429035, y: -0.16702513, z: 0.8474029, w: 0.09842806}
+  m_LocalPosition: {x: -0.6680055, y: -0.05191354, z: 0.14400008}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8897286594221481435}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: -18.369644, y: -144.65935, z: 164.03711}
+--- !u!1 &7342150419528774312
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5807452950454668976}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearRight_A_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5807452950454668976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7342150419528774312}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.4939827, y: 0.16793282, z: 0.84758216, w: -0.09687188}
+  m_LocalPosition: {x: -0.6678105, y: 0.054226533, z: 0.14400008}
+  m_LocalScale: {x: 1, y: 0.99999976, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2425592287194002782}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: 19.901531, y: -149.64545, z: -178.33818}
+--- !u!1 &7661283220968569929
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7464552716092183340}
+  m_Layer: 0
+  m_Name: Kupolojuve_FeelerRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7464552716092183340
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7661283220968569929}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.36765823, y: 0.9248555, z: -0.07229659, w: 0.065138176}
+  m_LocalPosition: {x: -0.12998112, y: -0.18959756, z: 0.08699997}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: 14.608346, y: 175.91313, z: 42.23613}
+--- !u!1 &7738520950462447017
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6048834309735704186}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegFrontRight_ClawA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6048834309735704186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7738520950462447017}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000393408, y: -0.00016371316, z: 0.10620339, w: 0.9943444}
+  m_LocalPosition: {x: -0.33577254, y: -0.048055496, z: -0.000014362335}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999976}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3320784484089447680}
+  m_LocalEulerAnglesHint: {x: -0.011723022, y: -0.015324392, z: -17.806992}
+--- !u!1 &7754676219809641392
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 487779657627104789}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontLeft_A_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &487779657627104789
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7754676219809641392}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000046148553, y: -0.21236317, z: -0.00000021235293, w: 0.9771908}
+  m_LocalPosition: {x: -0.36463013, y: -0.000000014901161, z: 0}
+  m_LocalScale: {x: 0.9999997, y: 1, z: 0.9999997}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1270089196036695720}
+  m_LocalEulerAnglesHint: {x: -2.6828327, y: -24.556112, z: -6.950529}
+--- !u!1 &7920133563277838503
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 821859157780367924}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegRearRight_ClawA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &821859157780367924
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7920133563277838503}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00003979736, y: -0.00016392842, z: -0.10620339, w: 0.9943444}
+  m_LocalPosition: {x: -0.335781, y: 0.047935657, z: -0.00012966155}
+  m_LocalScale: {x: 1.0000004, y: 0.99999976, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8000394623132762035}
+  m_LocalEulerAnglesHint: {x: 0.011780847, y: -0.0153257465, z: 17.806992}
+--- !u!1 &8026450626615303702
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2569006909176686550}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontLeft_B_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2569006909176686550
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8026450626615303702}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0.092784956, z: -0, w: 0.9956862}
+  m_LocalPosition: {x: -0.27393815, y: 0.00000000834465, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1830072796683506670}
+  m_Father: {fileID: 7660058296017816557}
+  m_LocalEulerAnglesHint: {x: 0.57837796, y: -10.653815, z: 4.3214216}
+--- !u!1 &8097291238163333243
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4432395218740107369}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontLeft_A_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4432395218740107369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8097291238163333243}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.2794262, y: 0.7192601, z: -0.477725, w: -0.41995803}
+  m_LocalPosition: {x: -0.6682038, y: -0.15995347, z: -0.07335388}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1270089196036695720}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: -54.85898, y: -52.099937, z: 56.748898}
+--- !u!1 &8117042938320197998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3698712435479467288}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegRearRight_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3698712435479467288
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8117042938320197998}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.2528222, y: 0.8930323, z: 0.35698512, w: 0.105526805}
+  m_LocalPosition: {x: 0.030339126, y: 0.15394454, z: 0.16799995}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8823815285490568451}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: -37.542885, y: -158.09875, z: -118.30206}
+--- !u!1 &8210183076352377870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4922809606387929680}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearRight_A_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4922809606387929680
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8210183076352377870}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000017119975, y: -0.21236293, z: -0.000000078777795,
+    w: 0.9771909}
+  m_LocalPosition: {x: -0.36462992, y: 0.000000062584874, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2425592287194002782}
+  m_LocalEulerAnglesHint: {x: 2.1246617, y: -17.305466, z: 11.10283}
+--- !u!1 &8278136580577085472
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8929452702654420764}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontRight_A_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8929452702654420764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8278136580577085472}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.41995832, y: -0.47772488, z: 0.7192599, w: 0.2794265}
+  m_LocalPosition: {x: -0.6682038, y: -0.1599535, z: 0.07300003}
+  m_LocalScale: {x: 0.9999998, y: 0.9999997, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2037508735436254533}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: -50.962135, y: -120.115685, z: 131.5369}
+--- !u!1 &8328996222032363042
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 49650260895458679}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearLeft_B_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &49650260895458679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8328996222032363042}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000053271174, y: -0.09278488, z: -0.0000006659141, w: 0.9956862}
+  m_LocalPosition: {x: -0.2739383, y: -0.00000002682209, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6034575427918745404}
+  m_Father: {fileID: 4160345077582004216}
+  m_LocalEulerAnglesHint: {x: -0.012557542, y: -6.3710656, z: 1.7085481}
+--- !u!1 &8373259454676325782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6034575427918745404}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearLeft_B_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6034575427918745404
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8373259454676325782}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000029826774, y: -0.2123633, z: 0.00000006481961, w: 0.9771908}
+  m_LocalPosition: {x: -0.3646303, y: 0.000000025629996, z: 0}
+  m_LocalScale: {x: 1.0000005, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 49650260895458679}
+  m_LocalEulerAnglesHint: {x: 2.705212, y: -32.460682, z: 9.742125}
+--- !u!1 &8477778949273849317
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7569412423136824157}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegRearLeft_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7569412423136824157
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8477778949273849317}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000053441216, y: -0.00000007877333, z: -0.042656526,
+    w: 0.99908984}
+  m_LocalPosition: {x: -0.18941791, y: 0.00000045776366, z: 0.0000000023841857}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8312347709630544934}
+  m_Father: {fileID: 5378442183140946082}
+  m_LocalEulerAnglesHint: {x: 0.0097884545, y: 0.02246814, z: -29.26688}
+--- !u!1 &8486850861480302305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4160345077582004216}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingRearLeft_B_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4160345077582004216
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8486850861480302305}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.2781049, y: 0.71977204, z: 0.47849524, w: -0.4190803}
+  m_LocalPosition: {x: -0.6676121, y: 0.16222641, z: -0.07335388}
+  m_LocalScale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 49650260895458679}
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: 64.424225, y: -31.408394, z: -33.999615}
+--- !u!1 &8594728372992390328
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6113913288570391089}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegFrontLeft_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6113913288570391089
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8594728372992390328}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000015600943, y: 0.0003146795, z: 0.26499286, w: 0.9642503}
+  m_LocalPosition: {x: -0.26901373, y: -0.000000076293944, z: -0.0000000023841857}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 65561009367859082}
+  - {fileID: 3646004514328042751}
+  m_Father: {fileID: 5089617130281842764}
+  m_LocalEulerAnglesHint: {x: -0.050408732, y: 0.032484975, z: 64.75904}
+--- !u!1 &8623984505247779818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5418871921895371509}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegRearLeft_ClawB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5418871921895371509
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8623984505247779818}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00001387081, y: -0.00019427395, z: -0.12800016, w: 0.99177414}
+  m_LocalPosition: {x: -0.33369797, y: 0.036846638, z: -0.00017684937}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8312347709630544934}
+  m_LocalEulerAnglesHint: {x: 0.008263113, y: -0.020732842, z: 10.291911}
+--- !u!1 &8678224711115717098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7535549938683793496}
+  m_Layer: 0
+  m_Name: root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7535549938683793496
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8678224711115717098}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4044405419632786945}
+  m_Father: {fileID: 6978747670708839440}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!1 &8871272134387623854
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 65561009367859082}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegFrontLeft_ClawA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &65561009367859082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8871272134387623854}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000039547445, y: -0.00016385115, z: -0.10620339, w: 0.9943444}
+  m_LocalPosition: {x: -0.33577257, y: 0.048055496, z: -0.0000144577025}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6113913288570391089}
+  m_LocalEulerAnglesHint: {x: 0.01175108, y: -0.015329251, z: 17.807005}
+--- !u!1 &8960296177188191392
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8377107027323824483}
+  m_Layer: 0
+  m_Name: Kupolojuve_WingFrontRight_B_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8377107027323824483
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8960296177188191392}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000001182353, y: -0.21235609, z: 0.0000008768206, w: 0.9771924}
+  m_LocalPosition: {x: -0.36462894, y: 0.0000003027916, z: -0.00000015258789}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8897286594221481435}
+  m_LocalEulerAnglesHint: {x: 0.35611787, y: -13.191462, z: 3.3972962}
+--- !u!1 &9069483910538361441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6690989091767357518}
+  - component: {fileID: 9059178942120183780}
+  - component: {fileID: 1459848902219973361}
+  - component: {fileID: 3659907281439392018}
+  m_Layer: 0
+  m_Name: Overlord
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6690989091767357518
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9069483910538361441}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -670, y: -82.64, z: 1134}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6978747670708839440}
+  - {fileID: 5205229922173312754}
+  - {fileID: 1047994823647743696}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9059178942120183780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9069483910538361441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf74eb66e2bb2614c8acbeb7c7b51eb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _vFXTrm: {fileID: 5205229922173312754}
+  _miningCount: 200
+  _addCrystalAmount: 20
+  _maxMingCount: 1
+--- !u!114 &1459848902219973361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9069483910538361441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad089af8c5705204c8ab2c3052edb9a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _playerCheckerDistance: 150
+  _whatIsPlayer:
+    serializedVersion: 2
+    m_Bits: 128
+  _spawnTrm: {fileID: 1047994823647743696}
+--- !u!136 &3659907281439392018
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9069483910538361441}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 27.8
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: 23.6, z: 0}
+--- !u!1 &9091005680125952294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3165281733922565062}
+  m_Layer: 0
+  m_Name: Kupolojuve_LegFrontRight_ClawB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3165281733922565062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9091005680125952294}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00001364517, y: -0.00019406497, z: -0.12800026, w: 0.99177414}
+  m_LocalPosition: {x: -0.33368522, y: 0.03666874, z: -0.000005722046}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3320784484089447680}
+  m_LocalEulerAnglesHint: {x: 0.008231211, y: -0.020717861, z: 10.2919}
+--- !u!1 &9132391829292128055
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8656387037828605838}
+  m_Layer: 0
+  m_Name: Kupolojuve_SacksLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8656387037828605838
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9132391829292128055}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.34739655, y: 0.6158861, z: -0.615247, w: -0.3485271}
+  m_LocalPosition: {x: -0.16527769, y: 0.00030353092, z: -0.18095443}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4044405419632786945}
+  m_LocalEulerAnglesHint: {x: 79.94519, y: -1.5388104, z: 107.28926}

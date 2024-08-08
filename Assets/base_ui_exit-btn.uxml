@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Label tabindex="-1" text="출격" parse-escape-sequences="true" display-tooltip-when-elided="true" name="base_ui_exit-btn" style="position: absolute; font-size: 100px; color: rgb(255, 255, 255); text-shadow: 4px 2px 5px rgb(255, 0, 0); top: 929px; left: 1709px; -unity-font-definition: initial; -unity-font: url(&quot;project://database/Assets/07.Fonts/SCDream2Text.otf?fileID=12800000&amp;guid=52f674ffc4c30db448cd3af0139f580f&amp;type=3#SCDream2Text&quot;);" />
+</ui:UXML>

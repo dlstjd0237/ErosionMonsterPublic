@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d92c4540b03e2044b5bf915f66b101e, type: 3}
+  m_Name: Enemy Lv3
+  m_EditorClassIdentifier: 
+  maxHealth:
+    _baseValue: 10000
+    modifiers: 
+  maxEnergy:
+    _baseValue: 0
+    modifiers: 
+  maxCrystal:
+    _baseValue: 0
+    modifiers: 
+  crystalBonus:
+    _baseValue: 0
+    modifiers: 
+  energyBonus:
+    _baseValue: 0
+    modifiers: 
+  erosionRate:
+    _baseValue: 0
+    modifiers: 
+  maxShield:
+    _baseValue: 0
+    modifiers: 
+  mainWeaponDamage:
+    _baseValue: 300
+    modifiers: 
+  subWeaponDamage:
+    _baseValue: 0
+    modifiers: 
+  fireDamage:
+    _baseValue: 0
+    modifiers: 
+  ignitePercent:
+    _baseValue: 0
+    modifiers: 
+  maxNuclearBomb:
+    _baseValue: 0
+    modifiers: 
+  maxAmmo:
+    _baseValue: 0
+    modifiers: 
+  moveSpeed:
+    _baseValue: 45
+    modifiers: 
+  moveSpeedMultiply:
+    _baseValue: 0
+    modifiers: 

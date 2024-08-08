@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 301aaa5c117be4541b9be0796280e103, type: 3}
+  m_Name: ShotgunSO
+  m_EditorClassIdentifier: 
+  _weaponName: "\uC0F7\uAC74 \uBAA8\uB4DC"
+  _weaponSprite: {fileID: 21300000, guid: aeba6969477984a4791212bddc4279c1, type: 3}
+  _description: "\uC18C\uCD1D \uBAA8\uB4DC\uBCF4\uB2E4 \uB290\uB9AC\uC9C0\uB9CC \uB113\uC740
+    \uBC94\uC704\uB85C \uACF5\uACA9\uC774 \uAC00\uB2A5\uD558\uB2E4. "
+  _weaponType: 1

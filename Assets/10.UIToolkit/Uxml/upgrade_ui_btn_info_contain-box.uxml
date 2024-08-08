@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="upgrade_ui_btn_info_contain-box" picking-mode="Ignore" class="upgrade_ui_btn_info_contain-box">
+        <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="upgrade_ui-btn" class="upgrade_ui-btn">
+            <ui:VisualElement name="upgrade_ui_btn_contain-box" picking-mode="Ignore" style="background-image: url(&quot;project://database/Assets/99.Assets/Shift%20-%20Complete%20Sci-Fi%20UI/Textures/Icon/Armor%20Glow.png?fileID=21300000&amp;guid=264ea33392537064c9608be6535ec11b&amp;type=3#Armor Glow&quot;); -unity-background-scale-mode: scale-to-fit; width: 130%; height: 130%; visibility: visible; overflow: visible;" />
+        </ui:Button>
+        <ui:VisualElement name="upgrade_ui_contain-box" class="upgrade_ui_contain-box">
+            <ui:Label tabindex="-1" text="Label" parse-escape-sequences="true" display-tooltip-when-elided="true" name="upgrade_ui_title-label" class="upgrade_ui_title-label" style="transition-duration: 0.2s;" />
+            <ui:Label tabindex="-1" text="방어력 증가해서 ㅁㄴ으ㅐㅁ즈ㅐ저ㅐ쟁재ㅓㄹ재ㅓ래저래저래저ㅐㄹ저ㅐㅓㅐㅓㅐㅈㅈ러재ㅓㅐㅈ" parse-escape-sequences="true" display-tooltip-when-elided="true" name="upgrade_ui_info-label" class="upgrade_ui_info-label" />
+        </ui:VisualElement>
+        <ui:Label tabindex="-1" text="크리스탈 x5" parse-escape-sequences="true" display-tooltip-when-elided="true" name="upgrade_ui_price-label" class="upgrade_ui_price-label" style="left: 0;" />
+    </ui:VisualElement>
+</ui:UXML>

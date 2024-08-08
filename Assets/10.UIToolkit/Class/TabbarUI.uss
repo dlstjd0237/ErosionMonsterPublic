@@ -1,0 +1,33 @@
+.tabbar_ui-btn.on {
+    border-left-color: rgb(255, 14, 14);
+}
+
+.tabbar_ui-btn:hover {
+    border-left-color: rgb(255, 14, 14);
+}
+
+.tabbar_ui-btn {
+    width: auto;
+    height: 100px;
+    border-left-color: rgba(255, 14, 14, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    -unity-font: url("project://database/Assets/99.Assets/Shift%20-%20Complete%20Sci-Fi%20UI/Fonts/Rajdhani-Regular.ttf?fileID=12800000&guid=11524516bb0f95d4ba72a86cdd3756e0&type=3#Rajdhani-Regular");
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    text-overflow: clip;
+    overflow: visible;
+    visibility: visible;
+    -unity-font-definition: initial;
+    text-shadow: 3px 3px 7.5px rgb(252, 18, 9);
+    -unity-text-align: middle-center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0);
+    margin-bottom: -3px;
+    border-left-width: 36px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
